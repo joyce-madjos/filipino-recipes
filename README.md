@@ -1,5 +1,5 @@
 # Filipino Recipes 
-A fun experiment to test my knowledge in HTML, CSS, and JavaScript
+A fun experiment to test my knowledge in HTML, and CSS
 
 https://joyce-madjos.github.io/filipino-recipes/
 
